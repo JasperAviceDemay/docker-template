@@ -3,5 +3,5 @@ All files need to be edited based on the comments added.
 Please ensure you have docker correctly installed on your system before attempted to use this template. 
 Docker installation guide can be found here: https://docs.docker.com/engine/install/ 
 After all files are configured if using ubuntu base machine, enter the 2 commands:
-chmod +x run-docker.sh and chmod +x build-docker.
+chmod +x run-docker.sh and chmod +x build-docker.sh
 If all the files are configured correctly running ./run-docker.sh in terminal should open the docker container. 
